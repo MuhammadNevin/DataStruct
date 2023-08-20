@@ -9,6 +9,7 @@
 # Linearly search x in arr[]
 # If x is present then return its location
 # else return -1
+# arr = [1, 2, 5, 6, 4, 3]
 
 def search(arr, x):
 
